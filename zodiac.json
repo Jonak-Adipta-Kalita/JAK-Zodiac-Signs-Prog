@@ -1,0 +1,13 @@
+{
+	"signs": [
+		{
+			"id": 0,
+			"name": "Aries",
+			"image": "aries.png",
+			"dates": "March 20- April 20",
+			"element": "Fire",
+			"rulling_planet": "Mars",
+			"emoji": "♈"
+		}
+	]
+}
