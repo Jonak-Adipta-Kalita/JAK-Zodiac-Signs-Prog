@@ -50,9 +50,63 @@
 			"name": "Virgo",
 			"image": "virgo.png",
 			"dates": "August 23 - September 22",
-			"element": "Mercury",
+			"element": "Earth",
 			"rulling_celestial_body": "Mercury",
 			"emoji": "♍"
+		},
+		{
+			"id": 6,
+			"name": "Libra",
+			"image": "libra.png",
+			"dates": "September 23 - October 22",
+			"element": "Air",
+			"rulling_celestial_body": "Venus",
+			"emoji": "♎"
+		},
+		{
+			"id": 7,
+			"name": "Scorpio",
+			"image": "scorpio.png",
+			"dates": "October 23 - November 22",
+			"element": "Water",
+			"rulling_celestial_body": "Mars and Pluto",
+			"emoji": "♏"
+		},
+		{
+			"id": 8,
+			"name": "Sagittarius",
+			"image": "sagittarius.png",
+			"dates": "Nov 23 - Dec 21",
+			"element": "Fire",
+			"rulling_celestial_body": "Jupiter",
+			"emoji": "♐"
+		},
+		{
+			"id": 9,
+			"name": "Capricorn",
+			"image": "capricorn.png",
+			"dates": "December 22 - January 19",
+			"element": "Earth",
+			"rulling_celestial_body": "Saturn",
+			"emoji": "♑"
+		},
+		{
+			"id": 10,
+			"name": "Aquarius",
+			"image": "aquarius.png",
+			"dates": "January 20 - February 19",
+			"element": "Air",
+			"rulling_celestial_body": "Uranus",
+			"emoji": "♒"
+		},
+		{
+			"id": 11,
+			"name": "Pisces",
+			"image": "pisces.png",
+			"dates": "February 19 - March 20",
+			"element": "Water",
+			"rulling_celestial_body": "Neptune",
+			"emoji": "♓"
 		}
 	]
 }
