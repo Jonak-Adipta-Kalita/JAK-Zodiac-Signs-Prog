@@ -1,1 +1,1 @@
-# JAK-Genshin-Impact-Elements-Prog
+# JAK Zodiac Signs Prog
