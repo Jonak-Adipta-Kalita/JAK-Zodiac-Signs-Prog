@@ -42,9 +42,9 @@ const displayPopup = (signe, id) => {
 					${signe.signs[id - 1].id + 1}. ${signe.signs[id - 1].name}
 				</h2>
 				<p><small>Element: </small>${signe.signs[id - 1].element}</p>
-				<p><small>Rulling Planet: </small>${signe.signs[id - 1].rulling_planet}</p>
 				<p><small>Emoji: </small>${signe.signs[id - 1].emoji}</p>
 				<p><small>Dates: </small>${signe.signs[id - 1].dates}</p>
+				<p><small>Rulling Celestial Body: </small>${signe.signs[id - 1].rulling_celestial_body}</p>
 			</div>
 		</div>
 	`;

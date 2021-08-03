@@ -4,10 +4,55 @@
 			"id": 0,
 			"name": "Aries",
 			"image": "aries.png",
-			"dates": "March 20- April 20",
+			"dates": "March 20 - April 20",
 			"element": "Fire",
-			"rulling_planet": "Mars",
+			"rulling_celestial_body": "Mars",
 			"emoji": "♈"
+		},
+		{
+			"id": 1,
+			"name": "Taurus",
+			"image": "taurus.png",
+			"dates": "April 21 – May 20",
+			"element": "Earth",
+			"rulling_celestial_body": "Venus",
+			"emoji": "♉"
+		},
+		{
+			"id": 2,
+			"name": "Gemini",
+			"image": "gemini.png",
+			"dates": "May 21 - June 20",
+			"element": "Air",
+			"rulling_celestial_body": "Mercury",
+			"emoji": "♊"
+		},
+		{
+			"id": 3,
+			"name": "Cancer",
+			"image": "cancer.png",
+			"dates": "June 21 - July 22",
+			"element": "Water",
+			"rulling_celestial_body": "The Moon",
+			"emoji": "♋"
+		},
+		{
+			"id": 4,
+			"name": "Leo",
+			"image": "leo.png",
+			"dates": "July 23 - August 22",
+			"element": "Fire",
+			"rulling_celestial_body": "The Sun",
+			"emoji": "♌"
+		},
+		{
+			"id": 5,
+			"name": "Virgo",
+			"image": "virgo.png",
+			"dates": "August 23 - September 22",
+			"element": "Mercury",
+			"rulling_celestial_body": "Mercury",
+			"emoji": "♍"
 		}
 	]
 }
